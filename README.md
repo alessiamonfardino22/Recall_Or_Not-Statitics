@@ -1,4 +1,4 @@
-# Recall_Or_Not-Statitics
+# SHould the company recall? - Statitics
 Inspired by the real story of Dye me Red, Mexico
 
 The report includes: 
